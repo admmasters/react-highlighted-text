@@ -1,3 +1,6 @@
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/admmasters/react-highlighted-text.svg)](https://greenkeeper.io/)
+
 A highlighted text higher order component for use with [React](https://facebook.github.io/react/ "React").
 <p>
 <b>New version: 1.0.2</b>
